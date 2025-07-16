@@ -8,6 +8,9 @@ A simple Python application that displays both an analog and digital clock for A
 - **Digital clock** display
 - Always shows the current time in Amsterdam (CET/CEST)
 
+<img width="406" height="484" alt="image" src="https://github.com/user-attachments/assets/3cb645d2-4455-4a4c-aa4b-595234883b87" />
+
+
 ## Requirements
 
 - Python 3.x
